@@ -1,9 +1,13 @@
 <img src="https://raw.githubusercontent.com/Databricks-BR/arch_think/refs/heads/main/images/arch_think_logo.png" width="700px">
 
-&emsp;&emsp;<p>Gostaria de compartilhar experiências sobre o framework colaborativo (Architecture Thinking Workshop), voltado para a modernização de Arquiteturas de Dados, que já venho adotando com sucesso há 3 anos na Databricks.  É uma abordagem no formato de Workshop interativo para apoiar na revisão de tecnologias emergentes e componentes, com foco em Dados & AI, baseado em um modelo de Design Thinking.</p>
-</br>
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Luis Assunção** - *Sr. Solution Architect* - Databricks</br>
-</br>
+  > <p>Gostaria de compartilhar experiências sobre o framework colaborativo (Architecture Thinking Workshop), voltado para a modernização de Arquiteturas de Dados, que já venho adotando com sucesso há 3 anos na Databricks.  É uma abordagem no formato de Workshop interativo para apoiar na revisão de tecnologias emergentes e componentes, com foco em Dados & AI, baseado em um modelo de Design Thinking.</p>
+  > <p>Luis Assunção,  Sr. Solution Architect - Databricks</p>
+
+## Sobre o WorkShop
+
+Participam do evento entre 10 a 20 empresas, de diversos segmentos e setores, com diferentes níveis de maturidade em Arquiteturas de Dados, com múltiplas estratégias de adoção. Alguns clientes com soluções On Premises, outros em diferentes provedores de Cloud (AWS, Azure, GCP e OCI) e até mesmo com arquiteturas Multi-Cloud.  Níveis de adoção que variam desde modelos mais tradicionais de Data Warehouse e Big Data, aos mais avançados de Data Lake e Lakehouse.  Profissionais que participam com o interesse de debater soluções que vão desde a ingestão e qualidade dos dados, Governança de Dados, Democratização e ferramentas ágeis de manipulação de dados (Analytics), Machine Learning, até os temas mais avançados de Generative AI e Agentes de AI.   
+Clientes que têm interesse em avaliar as soluções que são top de mercado, como o Databricks, e mesmo aqueles que ainda estão iniciando a avaliação de possibilidades.
+Essa múltipla diversidade é o diferencial de sucesso desse framework adotado no Workshop.</br>
 </br>
 
 ## Organizando o Pensamento
