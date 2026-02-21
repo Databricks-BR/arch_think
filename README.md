@@ -2,6 +2,7 @@
 
   > <p>Gostaria de compartilhar experiências sobre o framework colaborativo (Architecture Thinking Workshop), voltado para a modernização de Arquiteturas de Dados, que já venho adotando com sucesso há 3 anos na Databricks.  É uma abordagem no formato de Workshop interativo para apoiar na revisão de tecnologias emergentes e componentes, com foco em Dados & AI, baseado em um modelo de Design Thinking.</p>
   > <p>Luis Assunção,  Sr. Solution Architect - Databricks</p>
+</br>
 
 ## Sobre o WorkShop
 
