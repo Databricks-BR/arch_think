@@ -9,7 +9,7 @@
 ## Organizando o Pensamento
 
 É comum que os fornecedores de Tecnologia ofereçam suas soluções como sendo as “melhores do Mercado”.   Mas faço sempre uma analogia com uma "Consulta Médica".    O médico nunca prescreve um medicamento (solução para um problema), sem antes perguntar quais são seus sintomas, solicitar e avaliar exames, entender seu histórico clínico, entre outros.
-Existe um medicamento e dosagem mais adequado para cada tipo de sintoma, que varia para cada paciente.
+Existe um medicamento e dosagem mais adequado para cada tipo de sintoma, que varia para cada paciente.</br>
 </br>
 
 ## Cada Empresa é única
@@ -19,7 +19,7 @@ Uma determinada solução pode ser mais moderna e proporcionar uma série de ben
 
 Resistências à mudança, fatores culturais, falta de recursos, desconhecimento de tecnologias, custos de treinamento, são alguns exemplos de barreiras à inovação que precisam ser superadas.
 
-Entender a situação individual de cada empresa, e no tema de Arquitetura de Dados, quais os investimentos que já foram realizados, níveis de adoção, barreiras de entrada, impactos de mudança; e quais os projetos relevantes que estão priorizados dentro das diretrizes estratégicas de cada Empresa, são itens fundamentais para uma análise correta do cenário e recomendação da solução mais ADEQUADA.
+Entender a situação individual de cada empresa, e no tema de Arquitetura de Dados, quais os investimentos que já foram realizados, níveis de adoção, barreiras de entrada, impactos de mudança; e quais os projetos relevantes que estão priorizados dentro das diretrizes estratégicas de cada Empresa, são itens fundamentais para uma análise correta do cenário e recomendação da solução mais ADEQUADA.</br>
 </br>
 
 ## A melhor SOLUÇÃO é a que é MAIS ADEQUADA
